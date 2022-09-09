@@ -64,6 +64,7 @@ coffee cup
   
 2. allow Moka Pot to sit on stove eye until Gurgling sound is heard
 3. remove Moka Pot from stove eye and place onto a heat safe surface
+4. turn off electric stove
 
 ### Serve and enjoy
 
