@@ -39,9 +39,9 @@ coffee cup
 6. fill coffee basket to top with (accessories) ground coffee
 7. set coffee basket to the side
 ### Assemble Moka Pot 
-1. (check for Prepare Moka Pot function)
+1. (check that the Prepare Moka Pot function has been completed by seeing if the coffee basket, and the bottom chamber are full. if so begin assembling Moka Pot. else go back to prepare function)
     <br>
-    a. if coffee basket + bottom chamber = full => Assemble Moka Pot
+    a. if coffee basket + bottom chamber = full => begin Assemble Moka Pot
     <br>
     b. else Prepare Moka Pot
     <br>
@@ -78,10 +78,14 @@ coffee cup
 4. drink coffee
 
 ## execution of 'functions'
+BEGIN
+<br>
 1. Prepare Moka Pot
 2. Assemble Moka Pot
 3. Heat
 4. Serve and Enjoy
+<br> 
+END
 
 <br>
 Hopefully this rundown of how to Prepare Moka Pot style coffee is helpful!
